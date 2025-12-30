@@ -6,6 +6,8 @@
 
 - API Gateway (REST) + Lambda + DynamoDB
 - tfstateファイルは、S3リモートバックエンドへ設定
+<img width="1162" height="624" alt="terraform-handson (1)" src="https://github.com/user-attachments/assets/c281e5b0-1336-4058-80d0-43617eae16fb" />
+
 
 ## セットアップ
 
